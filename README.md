@@ -1,2 +1,2 @@
 # EedomusScripts
-Repository de script pour l'eedomus
+Repository de scripts pour l'eedomus
